@@ -1,0 +1,9 @@
+body > header {
+  background-color: blue;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  display: flex;
+}
+
+body > form {
+  background-color: aqua;
+}/*# sourceMappingURL=style.css.map */
